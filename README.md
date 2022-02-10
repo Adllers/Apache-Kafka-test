@@ -1,5 +1,3 @@
-# Imersão Full Stack & FullCycle 6.0 - Fincycle - Kafka e Kafka Connect
-
 ## Descrição
 
 Repositório do Kafka e Kafka Connect
